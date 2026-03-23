@@ -22,8 +22,6 @@ I'm a **Results-driven Full-Stack Developer** with hands-on experience building 
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 ---
 
 ### 🔹 Programming Languages
@@ -99,7 +97,20 @@ I'm a **Results-driven Full-Stack Developer** with hands-on experience building 
 ---
 
 ## 🚀 Projects
+### 🧠 AI Powered Voice to Notes Generator
+🚀 **Key Features:**
+- 🎤 Speech to text conversion  
+- 🤖 AI-based note generation  
+- 🔐 User authentication  
+- 📄 Clean structured output  
 
+🛠 **Tech Stack:** MERN Stack  
+
+🔗 **GitHub:** https://github.com/Swarupa272/Audio-Voice-Lecture-to-Notes-Generator  
+
+### 🏥 Full Stack Project
+- 🔹 Hospital Management System
+  
 ### 🌐 Web Applications
 - 🔹 VGU Website  
 - 🔹 Weather Forecast App  
@@ -108,9 +119,6 @@ I'm a **Results-driven Full-Stack Developer** with hands-on experience building 
 ### 💻 JavaScript Projects
 - 🔹 Tic Tac Toe Game  
 - 🔹 Calculator  
-
-### 🏥 Full Stack Project
-- 🔹 Hospital Management System  
 
 ### 🔐 Backend
 - 🔹 Auth Backend  

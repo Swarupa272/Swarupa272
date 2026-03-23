@@ -22,15 +22,66 @@ I'm a **Results-driven Full-Stack Developer** with hands-on experience building 
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+## 🛠️ Tech Stack
+
+---
+
+### 🔹 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-orange" />
-  <img src="https://img.shields.io/badge/Python-blue" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow" />
-  <img src="https://img.shields.io/badge/C-blue" />
-  <img src="https://img.shields.io/badge/C++-blueviolet" />
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C++-blueviolet?style=for-the-badge"/>
 </p>
 
+---
+
+### 🔹 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-teal?style=for-the-badge&logo=tailwind-css"/>
+</p>
+
+---
+
+### 🔹 Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/REST_API-blue?style=for-the-badge"/>
+</p>
+
+---
+
+### 🔹 Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql"/>
+</p>
+
+---
+
+### 🔹 AI / NLP
+<p>
+  <img src="https://img.shields.io/badge/LLMs-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Faster_Whisper-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ollama-lightgrey?style=for-the-badge"/>
+</p>
+
+---
+
+### 🔹 Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-darkblue?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/CI/CD-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</p>
 ---
 
 ### 🌐 Web Development

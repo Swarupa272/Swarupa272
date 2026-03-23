@@ -104,7 +104,7 @@ I'm a **Results-driven Full-Stack Developer** with hands-on experience building 
 - 🔐 User authentication  
 - 📄 Clean structured output  
 
-🛠 **Tech Stack:** MERN Stack  
+🛠 **Tech Stack:** Python Full Stack with AI Integratiom
 
 🔗 **GitHub:** https://github.com/Swarupa272/Audio-Voice-Lecture-to-Notes-Generator  
 

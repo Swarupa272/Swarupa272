@@ -17,6 +17,12 @@
 
 ## 🛠️ Tech Stack
 
+<p>
+  <img src="https://img.shields.io/badge/Java-orange" />
+  <img src="https://img.shields.io/badge/Python-blue" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow" />
+</p>
+
 ### 💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp" />
